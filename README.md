@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderhob&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderhob" /> </p>
 
-- 🔭 I’m currently working on [OSIPTEL](https://www.osiptel.gob.pe/)
+- 🔭 I’m currently working on [BSALE](https://www.bsale.com.pe/)
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **React and Node**
 
 - 👨‍💻 All of my projects are available at [www.teampixeland.com](www.teampixeland.com)
 
